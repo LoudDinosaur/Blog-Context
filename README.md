@@ -1,5 +1,5 @@
 ## 📖 Blog-Context-App
-Blog-Context is a React-based blog project that leverages the Context API and Tailwind CSS for styling. It integrates APIs to manage blog posts, tags, and categories, providing users with a seamless experience while navigating across multiple pages using React Router.
+Blog-Context is a React-based blog project that leverages the **Context API** and Tailwind CSS for styling. It integrates APIs to manage blog posts, tags, and categories, providing users with a seamless experience while navigating across multiple pages using React Router.
 
 ## **🌟 Features**
 1. React Context API for state management.
